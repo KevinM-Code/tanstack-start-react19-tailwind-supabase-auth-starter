@@ -1,0 +1,1 @@
+# tanstack-start-react19-tailwind-supabase-auth-starter
